@@ -9,8 +9,7 @@ wdawd
 
 
 ### Authors:
-Dmitriy Volynov
-Alexandr Dyakov
-Nikita Pestretsov
-Kolonin Gleb![image](https://github.com/dvolynov/Music-Style-Transfer/assets/83712099/d47c666b-1e29-416c-99cf-ad0196186367)
-
+Dmitriy Volynov   <img src="https://github.com/dvolynov/Music-Style-Transfer/assets/83712099/d47c666b-1e29-416c-99cf-ad0196186367" width="30">            
+Alexandr Dyakov   <img src="https://github.com/dvolynov/Music-Style-Transfer/assets/83712099/fecdf38e-fa56-46c1-af04-761f73a62172" width="30">    
+Nikita Pestretsov <img src="https://github.com/dvolynov/Music-Style-Transfer/assets/83712099/1d750242-aff3-430d-9389-cd483a80de60" width="30">    
+Kolonin Gleb      <img src="https://github.com/dvolynov/Music-Style-Transfer/assets/83712099/c14fe25c-cc18-41b1-b452-e349b96a79e1" width="30">    
