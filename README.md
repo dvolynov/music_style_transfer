@@ -12,4 +12,5 @@ wdawd
 Dmitriy Volynov
 Alexandr Dyakov
 Nikita Pestretsov
-Kolonin Gleb
+Kolonin Gleb![image](https://github.com/dvolynov/Music-Style-Transfer/assets/83712099/d47c666b-1e29-416c-99cf-ad0196186367)
+
