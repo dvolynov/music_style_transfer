@@ -18,13 +18,13 @@ The core components of the Music Style Transfer project are as follows:
 
 2. **Custom Neural Network**: We developed a custom neural network architecture specifically designed to extract features from audio spectrograms. This network comprises a single convolutional layer capable of extracting 4,000 features from the input spectrogram.
 
-![image](https://github.com/dvolynov/Music-Style-Transfer/assets/83712099/d811aee2-b2a6-44f1-ae3d-a2d4d75e69a9)
+<img src="https://github.com/dvolynov/Music-Style-Transfer/assets/83712099/d811aee2-b2a6-44f1-ae3d-a2d4d75e69a9" width="500">   
 
 3. **Loss Functions**: To guide the network's training process, we implemented two custom loss functions: "Get content loss" and "Get style loss." These functions measure the disparity between the network's predictions and the desired outputs, ensuring that the generated compositions retain the content of the original piece while incorporating the style of another.
 
 4. **Training Process**: During the training phase, the network learns to optimize the spectrogram to resemble the desired style while preserving the content. The spectrogram progressively transforms from a noisy representation to a refined one that exhibits the desired style characteristics.
 
-![image](https://github.com/dvolynov/Music-Style-Transfer/assets/83712099/b5fd2c78-4466-4806-992b-bffd9e67966b)
+<img src="https://github.com/dvolynov/Music-Style-Transfer/assets/83712099/b5fd2c78-4466-4806-992b-bffd9e67966b" width="500">   
 
 5. **Audio Reconstruction**: To convert the transformed spectrogram back into an audio waveform, we employ the Griffin-Lim algorithm and Inverse Fourier transform. This reconstruction process allows us to generate an audio output that reflects the desired style transfer.
 
