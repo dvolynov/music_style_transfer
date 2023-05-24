@@ -12,9 +12,9 @@ The Music Style Transfer project explores the application of style transfer tech
 
 The main focus of this project was to develop a custom neural network architecture that can extract meaningful features from audio spectrograms, which are representations of audio frequencies over time. While image-based style transfer often relies on pre-trained models like VGG-19 for feature extraction, audio spectrograms require a specialized approach.
 
-## Repository Contents
+## Main parts:
 
-This repository contains the following resources:
+- **Audio Processing**: Converting an audio waveform to a spectrogram image using Fourier transform and separating to magnitude and phase.
 
 - **Custom Neural Network**: The code for the custom neural network architecture, including the single convolutional layer that extracts features from audio spectrograms.
 
@@ -23,8 +23,6 @@ This repository contains the following resources:
 - **Training Process**: Code and documentation demonstrating the training process, showcasing how the spectrogram evolves over time to achieve the desired style transfer.
 
 - **Audio Reconstruction**: Implementation of the Griffin-Lim algorithm and Inverse Fourier transform for converting the transformed spectrogram back into an audio waveform.
-
-- **Articles**: A collection of relevant articles and resources that aided in the development and understanding of the Music Style Transfer project.
 
 ## Authors:
 <img src="https://github.com/dvolynov/Music-Style-Transfer/assets/83712099/d47c666b-1e29-416c-99cf-ad0196186367" width="20"> Dmitriy Volynov<br>
