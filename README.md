@@ -16,6 +16,8 @@ The core components of the Music Style Transfer project are as follows:
 
 1. **Audio Spectrograms**: Instead of working with raw audio data, we convert audio waveforms into spectrograms, which provide a visual representation of the frequency content over time. Spectrograms are widely used in audio processing and are suitable for input to neural networks.
 
+<img src="https://github.com/dvolynov/Music-Style-Transfer/assets/83712099/d4ba19bb-e59a-4638-bfe8-5b78752d86d7" width="500">   
+
 2. **Custom Neural Network**: We developed a custom neural network architecture specifically designed to extract features from audio spectrograms. This network comprises a single convolutional layer capable of extracting 4,000 features from the input spectrogram.
 
 <img src="https://github.com/dvolynov/Music-Style-Transfer/assets/83712099/d811aee2-b2a6-44f1-ae3d-a2d4d75e69a9" width="500">   
