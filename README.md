@@ -8,8 +8,12 @@
 
 This repository contains the code and resources for the Music Style Transfer project, which aims to apply the concept of style transfer, commonly used in image processing, to the field of music. By leveraging deep learning techniques and custom neural networks, this project enables the generation of unique music compositions by blending the style of one piece with the content of another.
 
-<img src="https://github.com/dvolynov/Music-Style-Transfer/assets/83712099/e123c5be-88ba-4dad-a9e8-f3fa2c2a9ee0" width="500">   
-https://github.com/dvolynov/Music-Style-Transfer/assets/83712099/90ac4d21-4a6b-419a-afb4-8993b6c0afee
+<img src="https://github.com/dvolynov/Music-Style-Transfer/assets/83712099/e123c5be-88ba-4dad-a9e8-f3fa2c2a9ee0" width="500"><br>
+
+
+https://github.com/dvolynov/Music-Style-Transfer/assets/83712099/5ff1b399-03d6-4eb9-ac72-4e6a3727af5a
+
+
 
 
 ## Project Description
