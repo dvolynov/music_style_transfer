@@ -6,7 +6,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-This repository contains the code and resources for the Music Style Transfer project, which aims to apply the concept of style transfer, commonly used in image processing, to the field of music. By leveraging deep learning techniques and custom neural networks, this project enables the generation of unique music compositions by blending the style of one piece with the content of another. This is an extension of music style transfer by ![Dmitry Ulyanov](https://github.com/DmitryUlyanov/neural-style-audio-torch), but using latest technologies.
+This repository contains the code and resources for the Music Style Transfer project, which aims to apply the concept of style transfer, commonly used in image processing, to the field of music. By leveraging deep learning techniques and custom neural networks, this project enables the generation of unique music compositions by blending the style of one piece with the content of another. This is an extension of music style transfer by [Dmitry Ulyanov](https://github.com/DmitryUlyanov/neural-style-audio-torch), but using latest technologies.
 
 <img src="https://github.com/dvolynov/Music-Style-Transfer/assets/83712099/e123c5be-88ba-4dad-a9e8-f3fa2c2a9ee0" width="500"><br>
 
