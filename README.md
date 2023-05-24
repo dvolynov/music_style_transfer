@@ -1,3 +1,3 @@
 # Music-Style-Transfer
 
-![image](https://github.com/dvolynov/Music-Style-Transfer/assets/83712099/96d71ec1-fdb4-4c6b-bea1-717eb76d8c1e)
+![image](https://github.com/dvolynov/Music-Style-Transfer/assets/83712099/bd0f4c9c-1532-49cb-9ea0-9acffddaa99f)
