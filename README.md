@@ -6,7 +6,7 @@ This repository contains the code and resources for the Music Style Transfer pro
 
 The Music Style Transfer project explores the application of style transfer techniques to the music industry. Similar to how style transfer works for images, where the artistic style of one image is applied to another, this project aims to achieve a similar effect with music. By combining the style of one piece with the content of another, we can create novel compositions with interesting blends of different musical genres and elements.  
 
-<img src="https://github.com/dvolynov/Music-Style-Transfer/assets/83712099/e123c5be-88ba-4dad-a9e8-f3fa2c2a9ee0" width="500">   
+<img src="https://github.com/dvolynov/Music-Style-Transfer/assets/83712099/bf0a7e9d-0375-4a2f-a0a6-7db7eb8069b3" width="500">   
 
 The main focus of this project was to develop a custom neural network architecture that can extract meaningful features from audio spectrograms, which are representations of audio frequencies over time. While image-based style transfer often relies on pre-trained models like VGG-19 for feature extraction, audio spectrograms require a specialized approach.
 
@@ -47,7 +47,7 @@ To explore the Music Style Transfer project and create your own unique compositi
 
 
 
-<img src="https://github.com/dvolynov/Music-Style-Transfer/assets/83712099/bf0a7e9d-0375-4a2f-a0a6-7db7eb8069b3" width="500">   
+<img src="https://github.com/dvolynov/Music-Style-Transfer/assets/83712099/e123c5be-88ba-4dad-a9e8-f3fa2c2a9ee0" width="500">   
  
 
 
