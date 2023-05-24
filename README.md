@@ -29,3 +29,9 @@ The main focus of this project was to develop a custom neural network architectu
 <img src="https://github.com/dvolynov/Music-Style-Transfer/assets/83712099/fecdf38e-fa56-46c1-af04-761f73a62172" width="20"> Alexandr Dyakov<br>
 <img src="https://github.com/dvolynov/Music-Style-Transfer/assets/83712099/1d750242-aff3-430d-9389-cd483a80de60" width="20"> Nikita Pestretsov<br>
 <img src="https://github.com/dvolynov/Music-Style-Transfer/assets/83712099/c14fe25c-cc18-41b1-b452-e349b96a79e1" width="20"> Kolonin Gleb<br>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
