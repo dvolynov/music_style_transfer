@@ -10,6 +10,9 @@ This repository contains the code and resources for the Music Style Transfer pro
 
 <img src="https://github.com/dvolynov/Music-Style-Transfer/assets/83712099/e123c5be-88ba-4dad-a9e8-f3fa2c2a9ee0" width="500"><br>
 
+https://www.youtube.com/watch?v=-8C4S8qmTuk  
+
+
 ## Project Description
 
 The Music Style Transfer project explores the application of style transfer techniques to the music industry. Similar to how style transfer works for images, where the artistic style of one image is applied to another, this project aims to achieve a similar effect with music. By combining the style of one piece with the content of another, we can create novel compositions with interesting blends of different musical genres and elements.  
