@@ -34,7 +34,7 @@ The main focus of this project was to develop a custom neural network architectu
 - **Audio Reconstruction**: Implementation of the Griffin-Lim algorithm and Inverse Fourier transform for converting the transformed spectrogram back into an audio waveform.
 
 ## Authors
-<img src="https://github.com/dvolynov/Music-Style-Transfer/assets/83712099/8020a74c-d8d6-415b-9469-fe318b1c76f6" width="20"> Dmitriy Volynov<br>
+<img src="https://github.com/dvolynov/Music-Style-Transfer/assets/83712099/151bfe6f-034d-4e87-8cb9-ada1683216f5" width="20"> Dmitriy Volynov<br>
 <img src="https://github.com/dvolynov/Music-Style-Transfer/assets/83712099/fecdf38e-fa56-46c1-af04-761f73a62172" width="20"> Alexandr Dyakov<br>
 <img src="https://github.com/dvolynov/Music-Style-Transfer/assets/83712099/1d750242-aff3-430d-9389-cd483a80de60" width="20"> Nikita Pestretsov<br>
 <img src="https://github.com/dvolynov/Music-Style-Transfer/assets/83712099/c14fe25c-cc18-41b1-b452-e349b96a79e1" width="20"> Kolonin Gleb<br>
